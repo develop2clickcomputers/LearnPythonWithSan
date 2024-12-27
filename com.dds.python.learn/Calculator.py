@@ -12,6 +12,8 @@ class Calculator:
     
     def subtract(self, a, b):
         return a - b
+    
+    #Please create more methods for other operations like multiply, divide, etc.
 
 if __name__ == "__main__":
     calc = Calculator()
